@@ -23,6 +23,9 @@
 ## 2. Analysis
 
 ## 3. Models
+|  Name  |  Time  |  Modalities  |  Params |  Link  |  Notes  |
+|  :---: |  :---: |     :---:    |  :---:  | :---:  |  :---:  |
+| MM1 | 2024.03 | V+L | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
 
 ## 4. Datasets
 
