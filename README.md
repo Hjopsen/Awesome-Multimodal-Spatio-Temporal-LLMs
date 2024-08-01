@@ -62,6 +62,7 @@
 | Name | Link | Notes |
 | :--: | :--: | :--:  |
 | LoRA | [Paper](https://arxiv.org/abs/2106.09685) | By transforming the full-parameter optimization into the optimization of two low-rank matrices through low-rank decomposition, the memory usage during training is reduced. |
+| Data Filtering Networks(DFN) | [Paper](https://arxiv.org/abs/2309.17425) | A CLIP model with high accuracy on downstream tasks is not necessarily a good data filtering model; a small amount of high-quality pre-training data is more important. |
 
 ## 7. Other awesome
 
