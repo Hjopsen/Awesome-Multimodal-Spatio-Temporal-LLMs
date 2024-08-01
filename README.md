@@ -23,6 +23,10 @@
 
 ## 2. Analysis
 
+|  Title  |  Time   |  Link  | Notes |
+|  :---:  |  :---:  |  :---: | :---: |
+| Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs | 2024.01 | [Paper](https://arxiv.org/abs/2401.06209) | The authors defined a "CLIP-blind pair" as two images that appear visually dissimilar but have very similar features according to CLIP's output. They also utilized GPT to summarize the characteristics of images that the model finds challenging to recognize. |
+
 ## 3. Models
 |  Name  |  Time  |  Modal  |  Params |  Link  |  Notes  |
 |  :---: |  :---: |     :---:    |  :---:  | :---:  |  :---:  |
