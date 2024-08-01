@@ -55,7 +55,7 @@
 | :----: | :----: |  :---: | :---:|
 | MMVP | 2024.01 | VQA for "CLIP-blind Pairs" | [Page](https://tsb0601.github.io/mmvp_blog/), [Paper](https://arxiv.org/abs/2401.06209), [Github](https://github.com/tsb0601/MMVP) <br> ![Star](https://img.shields.io/github/stars/tsb0601/MMVP.svg?style=social&label=Star) |
 | MME | 2023.06 | 14 subtasks: Existence, Count, OCR, Poster, Celebrity, Commonsense Reasoning, Text Translation... | [Paper](https://arxiv.org/abs/2306.13394), [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) <br> ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) |
-| Perception Test | 2023.05 | object tracking, point tracking, temporal action localisation, temporal sound localisation, multiple-choice video question-answering, grounded video question-answering | [Paper](https://arxiv.org/abs/2305.13786), [Github](https://github.com/google-deepmind/perception_test) <br> ![Star](https://img.shields.io/github/stars/google-deepmind/perception_test.svg?style=social&label=Star)
+| Perception Test | 2023.05 | object tracking, point tracking, temporal action localisation, temporal sound localisation, multiple-choice video question-answering, grounded video question-answering | [Paper](https://arxiv.org/abs/2305.13786), [Github](https://github.com/google-deepmind/perception_test) <br> ![Star](https://img.shields.io/github/stars/google-deepmind/perception_test.svg?style=social&label=Star) |
 
 ## 6. Technologies
 
@@ -67,5 +67,6 @@
 
 |  Name  |  Link  |  Scope |
 | :----: | :----: |  :---: |
-| Awesome-LLM-Tabular | [Github](https://github.com/johnnyhwu/Awesome-LLM-Tabular) | Tabular, LLM |
-| Awesome-LLM-3D | [Github](https://github.com/ActiveVisionLab/Awesome-LLM-3D) | 3D, LLM |
+| Awesome-LLM-Tabular | [Github](https://github.com/johnnyhwu/Awesome-LLM-Tabular) | Tabular, LLM  <br> ![Star](https://img.shields.io/github/stars/johnnyhwu/Awesome-LLM-Tabular.svg?style=social&label=Star) |
+| Awesome-LLM-3D | [Github](https://github.com/ActiveVisionLab/Awesome-LLM-3D) | 3D, LLM <br> ![Star](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D.svg?style=social&label=Star) |
+| Awesome-Multimodal-Large-Language-Models | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | Multimodal, Dataset, LLM <br> ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) |
