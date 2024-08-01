@@ -1,6 +1,8 @@
 # Awesome-Multimodal-Spatio-Temporal-LLMs
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hjopsen.Awesome-Multimodal-Spatio-Temporal-LLMs)
+
 ---
 **Table of Content**
 - [1. Surveys](#1-surveys)
@@ -48,6 +50,10 @@
 | Perception Test | 2023.05 | object tracking, point tracking, temporal action localisation, temporal sound localisation, multiple-choice video question-answering, grounded video question-answering | [Paper](https://arxiv.org/abs/2305.13786), [Github](https://github.com/google-deepmind/perception_test) <br> ![Star](https://img.shields.io/github/stars/google-deepmind/perception_test.svg?style=social&label=Star)
 
 ## 6. Technologies
+
+| Name | Link | Notes |
+| :--: | :--: | :--:  |
+| LoRA | [Paper](https://arxiv.org/abs/2106.09685) | By transforming the full-parameter optimization into the optimization of two low-rank matrices through low-rank decomposition, the memory usage during training is reduced. |
 
 ## 7. Other awesome
 
