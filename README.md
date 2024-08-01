@@ -40,13 +40,13 @@
 ## 3. Models
 |  Name  |  Time  |  Modal  |  Params |  Link  |  Notes  |
 |  :---: |  :---: |     :---:    |  :---:  | :---:  |  :---:  |
-| MM1 | 2024.03 | V+L | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
+| MM1 | 2024.03 | Vision<br>Language | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
 
 ## 4. Datasets
 
 | Datasets | Time | Modal | Scale | Annotation | Data sources | Link | Notes |
 | :---: |  :---: | :---: |  :---:  | :---:  |  :---:  |  :---:  |  :---:  |
-| FILIP300M | 2021.11 | V+L | 300M image-text pairs | image-text pairs | Internet | [Paper](https://arxiv.org/abs/2111.07783) | Removing the images whose shorter dimension is smaller than 200 pixels and the aspect ratio is larger than 3. Keeping only English texts, and excluding meaningless ones. Discarding image-text pairs whose texts are repeated over 10 times. |
+| FILIP300M | 2021.11 | Vision<br>Language | 300M image-text pairs | image-text pairs | Internet | [Paper](https://arxiv.org/abs/2111.07783) | Removing the images whose shorter dimension is smaller than 200 pixels and the aspect ratio is larger than 3. Keeping only English texts, and excluding meaningless ones. Discarding image-text pairs whose texts are repeated over 10 times. |
 
 
 ## 5. Benchmarks
