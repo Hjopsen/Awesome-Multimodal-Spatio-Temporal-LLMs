@@ -20,8 +20,16 @@
 |  :---:  |  :---:  |  :---: |  :---: | :---: |
 | Knowledge Mechanisms in Large Language Models: A Survey and Perspective | Arxiv | 2024.07 | [Arxiv](https://arxiv.org/abs/2407.15017) | categorise the knowledge mechanism of LLMs as knowledge utilization and evolution. Knowledge utilization delves into the mechanism of memorization, comprehension and application, and creation. Knowledge evolution focuses on the dynamic progression of knowledge within individual and group LLMs. |
 | When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models  | Arxiv | 2024.05 | [Arxiv](https://arxiv.org/abs/2405.10255) | introduce background knowledge of the 3D field and the revolutionary changes that LLM has brought to the field |
-| Large Multimodal Agents: A Survey | Arxiv | 2024.02 | [Arxiv](https://arxiv.org/abs/2402.15116) |
-| The Revolution of Multimodal Large Language Models: A Survey | ACL 2024 | V1:2024.02 - V2:2024.06 | [Arxiv](https://arxiv.org/abs/2402.12451) |
+| Large Multimodal Agents: A Survey | Arxiv | 2024.02 | [Arxiv](https://arxiv.org/abs/2402.15116) | :clock1: Coming soon... |
+| The Revolution of Multimodal Large Language Models: A Survey | ACL 2024 | V1:2024.02 - V2:2024.06 | [Arxiv](https://arxiv.org/abs/2402.12451) | :clock1: Coming soon... |
+| MM-LLMs: Recent Advances in MultiModal Large Language Models | ACL 2024 | V1:2024.01 - V5:2024.05 | [Arxiv](https://arxiv.org/abs/2401.13601) | :clock1: Coming soon... |
+| Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning | Arxiv | 2024.01 | [Arxiv](https://arxiv.org/abs/2401.06805) | :clock1: Coming soon... |
+| Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey | Arxiv | 2023.12 | [Arxiv](https://arxiv.org/abs/2312.16602) | :clock1: Coming soon... |
+| Multimodal Large Language Models: A Survey | BigData 2023 | 2023.11 | [Arxiv](https://arxiv.org/abs/2311.13165) | :clock1: Coming soon... |
+| A Survey on Multimodal Large Language Models for Autonomous Driving | WACV 2024 | 2023.11 | [Arxiv](https://arxiv.org/abs/2311.12320) | :clock1: Coming soon... |
+| Multimodal Foundation Models: From Specialists to General-Purpose Assistants | Arxiv | 2023.09 | [Arxiv](https://arxiv.org/abs/2309.10020) | :clock1: Coming soon... |
+| Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models | Arxiv | 2023.08 | [Arxiv](https://arxiv.org/abs/2308.14149) | :clock1: Coming soon... |
+| A Survey on Multimodal Large Language Models | Arxiv | 2023.06 | [Arxiv](https://arxiv.org/abs/2306.13549) | discuss MLLM from four perspectives: Multimodal Instruction Tuning、Multimodal In-Context Learning、Multimodal Chain of Thought、LLM-Aided Visual Reasoning |
 
 ## 2. Analysis
 
