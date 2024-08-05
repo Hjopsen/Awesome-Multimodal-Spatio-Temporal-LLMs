@@ -38,6 +38,7 @@
 | Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs | 2024.01 | [Paper](https://arxiv.org/abs/2401.06209) | The authors defined a "CLIP-blind pair" as two images that appear visually dissimilar but have very similar features according to CLIP's output. They also utilized GPT to summarize the characteristics of images that the model finds challenging to recognize. |
 
 ## 3. Models
+
 |  Name  |  Time  |  Modal  |  Params |  Link  |  Notes  |
 |  :---: |  :---: |     :---:    |  :---:  | :---:  |  :---:  |
 | MM1 | 2024.03 | Vision<br>Language | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
@@ -71,3 +72,4 @@
 | Awesome-LLM-Tabular | [Github](https://github.com/johnnyhwu/Awesome-LLM-Tabular) | Tabular, LLM  <br> ![Star](https://img.shields.io/github/stars/johnnyhwu/Awesome-LLM-Tabular.svg?style=social&label=Star) |
 | Awesome-LLM-3D | [Github](https://github.com/ActiveVisionLab/Awesome-LLM-3D) | 3D, LLM <br> ![Star](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D.svg?style=social&label=Star) |
 | Awesome-Multimodal-Large-Language-Models | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | Multimodal, Dataset, LLM <br> ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) |
+| Awesome-Multimodal-Papers | [Github](https://github.com/friedrichor/Awesome-Multimodal-Papers) | LargeModel, Benchmark, Task, Dataset <br> ![Star](https://img.shields.io/github/stars/friedrichor/Awesome-Multimodal-Papers.svg?style=social&label=Star) |
