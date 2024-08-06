@@ -42,6 +42,7 @@
 |  Name  |  Time  |  Modal  |  Params |  Link  |  Notes  |
 |  :---: |  :---: |     :---:    |  :---:  | :---:  |  :---:  |
 | MM1 | 2024.03 | Vision<br>Language | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
+| LLaVA | 2023.04 | Vision<br>Language | V1: 7B, 13B<br>V1.5: 7B, 13B<br>V1.6: 7B, 13B, 34B | [Page](https://llava-vl.github.io/), [Paper1](https://arxiv.org/abs/2304.08485), [Paper2](https://arxiv.org/abs/2310.03744), [Github](https://github.com/haotian-liu/LLaVA) | is the first attempt to use language-only GPT-4 to generate multimodal language-image instruction-following data and trains an end-to-end large multimodal model that connects a vision encoder and an LLM for generalpurpose visual and language understanding. |
 
 ## 4. Datasets
 
