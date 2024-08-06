@@ -3,8 +3,11 @@
 ![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hjopsen.Awesome-Multimodal-Spatio-Temporal-LLMs)
 
----
-**Table of Content**
+## :seedling: How to participate in this awesome
+
+You are welcome to add new multimodal works, fix errors, or make any other modifications that help make this awesome more useful or interesting. Click [here](./CONTRIBUTION.md) to find the contribution tutorial. We promise that your pull requests will be processed within **24 hours**. Thank you for your contributions.
+
+## :star: Table of Content
 - [1. Surveys](#1-surveys)
 - [2. Analysis](#2-analysis)
 - [3. Models](#3-models)
@@ -12,7 +15,6 @@
 - [5. Benchmarks](#5-benchmarks)
 - [6. Technologies](#6-technologies)
 - [7. Other awesome](#7-other-awesome)
----
 
 ## 1. Surveys
 
