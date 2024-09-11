@@ -61,7 +61,9 @@ You are welcome to add new multimodal works, fix errors, or make any other modif
 
 |  Name  |  Time  |  Task  | Link |
 | :----: | :----: |  :---: | :---:|
+| MM-Vet v2 | 2024.08 | Recognition, Knowledge, OCR, Spatial awareness, Language generation, Math, image-text sequence understanding | [Paper](https://arxiv.org/abs/2408.00765), [Github](https://github.com/yuweihao/MM-Vet/tree/main/v2) <br> ![Star](https://img.shields.io/github/stars/yuweihao/MM-Vet.svg?style=social&label=Star) |
 | MMVP | 2024.01 | VQA for "CLIP-blind Pairs" | [Page](https://tsb0601.github.io/mmvp_blog/), [Paper](https://arxiv.org/abs/2401.06209), [Github](https://github.com/tsb0601/MMVP) <br> ![Star](https://img.shields.io/github/stars/tsb0601/MMVP.svg?style=social&label=Star) |
+| MM-Vet | 2023.08 | Recognition, Knowledge, OCR, Spatial awareness, Language generation, Math | [Paper](https://arxiv.org/abs/2308.02490), [Github](https://github.com/yuweihao/MM-Vet) <br> ![Star](https://img.shields.io/github/stars/yuweihao/MM-Vet.svg?style=social&label=Star) |
 | MME | 2023.06 | 14 subtasks: Existence, Count, OCR, Poster, Celebrity, Commonsense Reasoning, Text Translation... | [Paper](https://arxiv.org/abs/2306.13394), [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) <br> ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) |
 | Perception Test | 2023.05 | object tracking, point tracking, temporal action localisation, temporal sound localisation, multiple-choice video question-answering, grounded video question-answering | [Paper](https://arxiv.org/abs/2305.13786), [Github](https://github.com/google-deepmind/perception_test) <br> ![Star](https://img.shields.io/github/stars/google-deepmind/perception_test.svg?style=social&label=Star) |
 
