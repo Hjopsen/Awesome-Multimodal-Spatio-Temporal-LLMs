@@ -43,8 +43,12 @@ You are welcome to add new multimodal works, fix errors, or make any other modif
 
 |  Name  |  Time  |  Modal  |  Params |  Link  |  Notes  |
 |  :---: |  :---: |     :---:    |  :---:  | :---:  |  :---:  |
-| MM1 | 2024.03 | Vision<br>Language | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
-| LLaVA | 2023.04 | Vision<br>Language | V1: 7B, 13B<br>V1.5: 7B, 13B<br>V1.6: 7B, 13B, 34B | [Page](https://llava-vl.github.io/), [Paper1](https://arxiv.org/abs/2304.08485), [Paper2](https://arxiv.org/abs/2310.03744), [Github](https://github.com/haotian-liu/LLaVA) | is the first attempt to use language-only GPT-4 to generate multimodal language-image instruction-following data and trains an end-to-end large multimodal model that connects a vision encoder and an LLM for generalpurpose visual and language understanding. |
+| Qwen2-VL | 2024.08 | Image<br>Video<br>Language | 2B, 7B, 72B | [Github](https://github.com/QwenLM/Qwen2-VL) | |
+| PaliGemma | 2024.07 | Image<br>Language | 3B | [Paper](https://arxiv.org/abs/2407.07726) | VL Large Model Focused on transfer learning |
+| MM1 | 2024.03 | Image<br>Language | 3B, 7B, 30B | [Paper](https://arxiv.org/abs/2403.09611), [Github](https://github.com/kyegomez/MM1) | Ablation experiments are performed on the model architecture decisions and pre-training data choices to determine the optimal configuration |
+| MiniCPM-V | 2024.02 | Image<br>Language | 2B, 8B | [Paper](https://arxiv.org/abs/2408.01800), [Github](https://github.com/OpenBMB/MiniCPM-V) | Lightweight VL models focusing on end-side deployment |
+| InternVL | 2023.12 | Image<br>Language | 14B, 40B | [Paper](https://arxiv.org/abs/2312.14238) | |
+| LLaVA | 2023.04 | Image<br>Language | V1: 7B, 13B<br>V1.5: 7B, 13B<br>V1.6: 7B, 13B, 34B | [Page](https://llava-vl.github.io/), [Paper1](https://arxiv.org/abs/2304.08485), [Paper2](https://arxiv.org/abs/2310.03744), [Github](https://github.com/haotian-liu/LLaVA) | is the first attempt to use language-only GPT-4 to generate multimodal language-image instruction-following data and trains an end-to-end large multimodal model that connects a vision encoder and an LLM for generalpurpose visual and language understanding. |
 
 ## 4. Datasets
 
